@@ -29,7 +29,7 @@ function filterRange(arr, a, b) {
 			if(arr[i]===b){
 				break;
 			}
-		}		
+		}
 	}
 	console.log(newArr);
 	return newArr;
